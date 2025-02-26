@@ -170,3 +170,6 @@ pnnx*
 
 # calibration image
 calibration_*.npy
+
+#我测试时添加的rubbbish
+/train/
