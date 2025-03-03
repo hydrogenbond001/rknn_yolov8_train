@@ -54,7 +54,7 @@ six==1.17.0
 sympy==1.13.1
 torch==1.10.2+cu111
 torchaudio==0.10.2+cu111
-torchvision==0.11.3+cu111
+torchvision==0.21.0
 tqdm==4.67.1
 triton==3.0.0
 typing_extensions==4.12.2
